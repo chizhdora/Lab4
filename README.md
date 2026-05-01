@@ -21,5 +21,6 @@ print(f"NPV: {npv}")
 # Общий эффект
 total = calculate_total_effect([20, 30, 50])
 print(f"Общий эффект: {total}")
-   
+
+Лабораторная работа №4 выполнена 
     
